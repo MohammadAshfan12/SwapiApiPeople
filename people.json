@@ -39,20 +39,20 @@
         {
             "id": 5,
             "name": "Leia Organa",
-			"height": "150",
-			"hair_color": "brown",
-			"skin_color": "light",
-			"birth_year": "19BBY",
-			"gender": "female"
+	    "height": "150",
+	    "hair_color": "brown",
+	    "skin_color": "light",
+	    "birth_year": "19BBY",
+	    "gender": "female"
         },
         {
             "id": 6,
             "name": "Owen Lars",
-			"height": "178",
-			"hair_color": "brown, grey",
-			"skin_color": "light",
-			"birth_year": "52BBY",
-			"gender": "male"
+	    "height": "178",
+	    "hair_color": "brown, grey",
+	    "skin_color": "light",
+	    "birth_year": "52BBY",
+	    "gender": "male"
         }
     ]
 }
